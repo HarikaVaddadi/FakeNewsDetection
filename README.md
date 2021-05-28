@@ -1,3 +1,5 @@
+# FakeNewsDetection
+
 The main goal is to build a model to classify a piece of news as REAL or FAKE. In this repo TfidfVectorizer is implemented on dataset along with PassiveAggressiveClassifier.
 
 # TfidfVectorizer
@@ -14,7 +16,7 @@ Passive Aggressive algorithm remains passive for a correct classification outcom
 
 By using sklearn, we build a TfidfVectorizer on our dataset. Then, we initialize a PassiveAggressiveClassifier and fit the model.
 
-You can download the dataset [here.] ()
+You can download the dataset [here.] (https://drive.google.com/file/d/1C-Ei3aQOhwjZ2GCieFs9LjFV0Olej6rV/view?usp=sharing)
 
 # Dependencies
 - Numpy
